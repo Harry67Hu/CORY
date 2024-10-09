@@ -1,6 +1,6 @@
 ![CORY LOGO](img/CORY-LOGO.jpg)
 
-<h1 align="center">Coevolving with the Other You</h1>
+<h1 align="center">Coevolving with the OtheR You</h1>
 
 Official implementation of the NeurIPS 2024 paper Coevolving with the Other You: Fine-Tuning LLM
 with Sequential Cooperative Multi-Agent
@@ -27,7 +27,7 @@ potential as a superior methodology for refining LLMs in real-world applications
 <p align="center">
   <img src="img/CORY-idea.png" alt="CORY Idea">
   <br>
-  <b>CORY Basic Idea of CORY</b>
+  <b>Basic Idea of CORY</b>
 </p>
 
 
