@@ -69,6 +69,20 @@ Fine-tuning with CORY
 python imdb_train/cory.py
 ```
 
+# Citation
+Please cite the repo if you use the data or code in this repo.
+```
+@misc{ma2024coevolvingyoufinetuningllm,
+      title={Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning}, 
+      author={Hao Ma and Tianyi Hu and Zhiqiang Pu and Boyin Liu and Xiaolin Ai and Yanyan Liang and Min Chen},
+      year={2024},
+      eprint={2410.06101},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2410.06101}, 
+}
+```
+
 # Statement
 
 We will continue to maintain this code repository in the coming months.
