@@ -70,7 +70,7 @@ python imdb_train/cory.py
 ```
 
 # Citation
-Please cite the repo if you use the data or code in this repo.
+If you find this repository useful, please cite our [paper](https://arxiv.org/abs/2410.06101):
 ```
 @misc{ma2024coevolvingyoufinetuningllm,
       title={Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning}, 
