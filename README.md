@@ -70,16 +70,18 @@ python imdb_train/cory.py
 ```
 
 # Citation
-If you find this repository useful, please cite our [paper](https://arxiv.org/abs/2410.06101):
+If you find this repository useful, please cite our [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1c2b1c8f7d317719a9ce32dd7386ba35-Abstract-Conference.html):
 ```
-@misc{ma2024coevolvingyoufinetuningllm,
-      title={Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning}, 
-      author={Hao Ma and Tianyi Hu and Zhiqiang Pu and Boyin Liu and Xiaolin Ai and Yanyan Liang and Min Chen},
-      year={2024},
-      eprint={2410.06101},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2410.06101}, 
+@inproceedings{NEURIPS2024_1c2b1c8f,
+ author = {Ma, Hao and Hu, Tianyi and Pu, Zhiqiang and Boyin, Liu and Ai, Xiaolin and Liang, Yanyan and Chen, Min},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {15497--15525},
+ publisher = {Curran Associates, Inc.},
+ title = {Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/1c2b1c8f7d317719a9ce32dd7386ba35-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
 }
 ```
 
